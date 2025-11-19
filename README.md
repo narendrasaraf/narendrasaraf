@@ -1,24 +1,84 @@
-# 💫 About Me:
-🔭 I’m currently working on Data Structure & Algorithms<br>🤝 I’m looking for help with End to End Projects<br>🌱 I’m currently learning Machine Learning<br>💬 Ask me about diffrent technologies
+<div align="center">
 
+Hi there, I'm Narendra Saraf! 👋
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/narendra-saraf) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:narendrasaraf16@gmail.com) 
+<!-- Typing SVG: Adds a dynamic animation of your skills -->
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Snarendra16&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Snarendra16&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Snarendra16&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<a href="https://git.io/typing-svg">
+<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DFira%2BCode%26pause%3D1000%26color%3DF75C7E%26center%3Dtrue%26vCenter%3Dtrue%26width%3D435%26lines%3DData%2BStructure%2B%2526%2BAlgorithms%3BMachine%2BLearning%2BEnthusiast%3BFull%2BStack%2BDeveloper%3BOpen%2BSource%2BContributor" alt="Typing SVG" />
+</a>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Snarendra16&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<!-- Social Links -->
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<a href="https://linkedin.com/in/narendra-saraf">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-%25230077B5.svg%3Flogo%3Dlinkedin%26logoColor%3Dwhite%26style%3Dfor-the-badge" alt="LinkedIn" />
+</a>
+<a href="mailto:narendrasaraf16@gmail.com">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Flogo%3Dgmail%26logoColor%3Dwhite%26style%3Dfor-the-badge" alt="Email" />
+</a>
 
----
-[![](https://visitcount.itsvg.in/api?id=Snarendra16&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+💫 About Me
+
+🔭 I’m currently working on Data Structure & Algorithms
+
+🤝 I’m looking for help with End to End Projects
+
+🌱 I’m currently learning Machine Learning
+
+💬 Ask me about different technologies
+
+💻 Tech Stack
+
+<div align="center">
+
+Languages
+
+Data Science & Machine Learning
+
+Web Development & Frameworks
+
+Databases, Tools & Design
+
+</div>
+
+📈 GitHub Activity Graph
+
+<div align="center">
+<!-- Activity Graph -->
+<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3DSnarendra16%26bg_color%3D141321%26color%3Dfe428e%26line%3Dfe428e%26point%3Dffffff%26area%3Dtrue%26hide_border%3Dtrue" alt="Activity Graph" />
+</div>
+
+📊 GitHub Stats
+
+<div align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DSnarendra16%26theme%3Dradical%26hide_border%3Dfalse%26include_all_commits%3Dtrue%26count_private%3Dtrue" height="180" alt="stats graph" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DSnarendra16%26theme%3Dradical%26hide_border%3Dfalse%26include_all_commits%3Dtrue%26count_private%3Dtrue%26layout%3Dcompact" height="180" alt="languages graph" />
+</div>
+
+<br />
+
+<div align="center">
+<img src="https://www.google.com/search?q=https://nirzak-streak-stats.vercel.app/%3Fuser%3DSnarendra16%26theme%3Dradical%26hide_border%3Dfalse" alt="streak stats" />
+</div>
+
+🏆 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Snarendra16&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="trophies" />
+</div>
+
+✍️ Random Dev Quote
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote" />
+</div>
+
+<br />
+
+<div align="center">
+<a href="https://visitcount.itsvg.in">
+<img src="https://visitcount.itsvg.in/api?id=Snarendra16&icon=0&color=0" alt="Visit Counter" />
+</a>
+</div>
