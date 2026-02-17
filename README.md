@@ -26,10 +26,6 @@
 
 
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=narendrasaraf&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 
 
 ### ✍️ Random Dev Quote
