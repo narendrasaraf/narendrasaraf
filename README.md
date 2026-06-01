@@ -1,48 +1,272 @@
-# 💫 About Me:
+<div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,19,24,30,2&text=Narendra%20Saraf&fontSize=82&fontAlignY=38&desc=An%20Engineer%20%7C%20Programmer%20%7C%20Investor&descSize=20&descAlignY=58&animation=fadeIn&fontColor=fff&stroke=ffffff&strokeWidth=1"/>
 
-🔭 I’m currently working on Data Structure & Algorithms<br>🤝 I’m looking for help with End to End Projects<br>🌱 I’m currently learning Machine Learning<br>💬 Ask me about diffrent technologies
+</div>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&repeat=true&width=860&height=60&lines=Building+ML+Systems+%26+Full-Stack+Apps+%F0%9F%9A%80;Fintech+%C2%B7+AI+Research+%C2%B7+Cybersecurity+%C2%B7+Web+Dev+%F0%9F%92%BB;Ensemble+Models+%7C+LLM+Research+%7C+Causal+Inference+%F0%9F%A7%A0;Vishwakarma+Institute+of+Technology%2C+Pune+%F0%9F%8E%93;Code+with+intent.+Build+with+purpose.+%E2%9C%A8" alt="Typing SVG" />
+  </a>
+</p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/narendra-saraf/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:narendrasaraf16@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/>
+  </a>
+  <a href="https://github.com/narendrasaraf" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-6B7280?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub"/>
+  </a>
+  <a href="https://www.narendrasaraf.in" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0D1117" alt="Portfolio"/>
+  </a>
+  <a href="https://leetcode.com/u/naru1611/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0D1117" alt="LeetCode"/>
+  </a>
+  <a href="https://huggingface.co/NarendraSaraf" target="_blank">
+    <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=0D1117" alt="HuggingFace"/>
+  </a>
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=narendrasaraf&color=22D3EE&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+</p>
 
+<br/>
 
-## 🌐 Socials:
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/narendra-saraf) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:narendrasaraf16@gmail.com) 
+<br/>
 
+<hr style="border: none; height: 1px; background: linear-gradient(90deg, transparent, #22D3EE, #818CF8, transparent); margin: 20px auto;">
 
+## 🧑‍💻 About Me
 
-# 💻 Tech Stack:
+```typescript
+const narendraSaraf = {
+  tagline:  "An Engineer | Programmer | Investor",
+  location: "Maharashtra, India 🇮🇳",
+  timezone: "Asia/Kolkata (UTC +5:30)",
+  website:  "https://narendrasaraf.in",
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+  education: {
+    institution: "Vishwakarma Institute of Technology (VIT), Pune",
+    focus:       ["Data Structures & Algorithms", "Machine Learning", "Full-Stack Dev"],
+    activities:  [
+      "Finance & Content Head — EDC (Entrepreneurship Dev. Cell)",
+      "Assistant Finance Head — Gandharva (Techno-Cultural Fest)"
+    ]
+  },
 
+  currentWork: {
+    learning:  ["Advanced ML Systems", "Causal Inference", "LLM Research"],
+    building:  "AI-integrated full-stack products",
+    exploring: "Algorithmic trading & fintech automation"
+  },
 
+  strengths: [
+    "Ensemble ML & Feature Engineering",
+    "LLM Bias Research & Causal Inference",
+    "Full-Stack Web Engineering (MEVN / MERN)",
+    "Cybersecurity & Phishing Detection",
+    "Financial Analytics & IPO Prediction"
+  ],
 
+  techStack: {
+    languages:  ["JavaScript", "TypeScript", "Python", "Java", "C++", "Solidity"],
+    frontend:   ["Vue.js", "React", "Next.js", "TailwindCSS", "Angular", "GSAP"],
+    backend:    ["Node.js", "Express", "FastAPI", "Flask", "Django", "NestJS"],
+    databases:  ["MongoDB", "MySQL", "PostgreSQL", "Redis", "SQLite", "Prisma"],
+    ai_ml:      ["PyTorch", "TensorFlow", "XGBoost", "LightGBM", "CatBoost", "OpenCV"],
+    devops:     ["Docker", "Kubernetes", "AWS", "Vercel", "GitHub Actions"]
+  },
 
+  openTo: { collaboration: true, openSource: true, freelance: true }
+};
+```
 
-# 📊 GitHub Stats:
+<br/>
 
-![](https://github-readme-stats.vercel.app/api?username=narendrasaraf&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<hr style="border: none; height: 1px; background: linear-gradient(90deg, transparent, #22D3EE, #818CF8, transparent); margin: 20px auto;">
 
-![](https://nirzak-streak-stats.vercel.app/?user=narendrasaraf&theme=dark&hide_border=false)<br/>
+## 🚀 Featured Projects
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=narendrasaraf&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+> *Picked from [github.com/narendrasaraf](https://github.com/narendrasaraf) — top 5 by technical depth, domain coverage, and real-world impact.*
 
+<br/>
 
+### 🥇 [IPO Success Scoreboard](https://github.com/narendrasaraf/IPO-Success-Scoreboard)
+> ML-powered IPO success predictor — classifies outcomes as **Success / Normal / Fail** using sophisticated ensemble modeling, GMP integration & a live Streamlit app deployed on HuggingFace.
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=xgboost&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-02C39A?style=flat-square&logoColor=white)
+![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black)
 
+**Key Features:** 5-model stacking classifier (XGBoost, LightGBM, CatBoost, BalancedRF, GradientBoost) · SMOTETomek for class imbalance · RFECV feature selection · PowerTransformer scaling · Grey Market Premium (GMP) dynamic integration · 20+ engineered features (P/E ratio interactions, valuation risk score, profit momentum)
 
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-
+⭐ 7 stars | 🚀 [Live on HuggingFace Spaces](https://huggingface.co/spaces/NarendraSaraf/IPO-Success-Predictor)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=narendrasaraf&icon=0&color=0)](https://visitcount.itsvg.in)
+### 🥈 [Causal Analysis & Bias Mitigation of LLMs](https://github.com/narendrasaraf/Causal-Analysis-and-Bias-Mitigation-of-LLMs)
+> Research project applying **causal inference** to identify and mitigate demographic bias in large language models — full pipeline from causal graph modeling to experimental intervention.
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-![image](https://user-images.githubusercontent.com/69399372/154818339-3ba40bef-9ddb-42b0-8a66-7a65c332db89.png)
+**Pipeline:** Dataset prep → Bias measurement → Causal graph modeling → Counterfactual intervention → Mitigation → Evaluation (achieved 2% demographic bias reduction across tested LLMs)
 
+⭐ 7 stars | Folders: `notebooks/`, `mitigation/`, `research/`, `results/`, `scripts/`
+
+---
+
+### 🥉 [Hospital Management Service](https://github.com/narendrasaraf/Hospital_Management_Service)
+> Full-stack healthcare platform centralizing patient management, doctor scheduling, appointment booking, and medical records with a Vue.js SPA frontend.
+
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+
+⭐ 7 stars
+
+---
+
+### 🏅 [Eventify](https://github.com/narendrasaraf/Eventify)
+> Full-stack event management system supporting scheduling, real-time virtual events, notifications, and collaboration workflows.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=61DAFB)
+
+⭐ 7 stars
+
+---
+
+### 🏅 [PhishGuard](https://github.com/narendrasaraf/PhishGuard)
+> Cybersecurity tool for real-time phishing URL detection and threat protection, built with JavaScript.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+
+⭐ 7 stars
+
+<br/>
+
+<hr style="border: none; height: 1px; background: linear-gradient(90deg, transparent, #22D3EE, #818CF8, transparent); margin: 20px auto;">
+
+## 🛠️ Tech Stack
+
+<details open>
+<summary><b>⚡ Languages</b></summary>
+<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,solidity,bash&theme=dark&perline=8" alt="Languages"/>
+</p>
+</details>
+
+<details open>
+<summary><b>🎨 Frontend</b></summary>
+<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vue,react,nextjs,angular,tailwind,bootstrap,sass,vite&theme=dark&perline=8" alt="Frontend"/>
+</p>
+</details>
+
+<details open>
+<summary><b>⚙️ Backend & Databases</b></summary>
+<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,flask,django,mongodb,mysql,postgresql,redis,sqlite,prisma&theme=dark&perline=8" alt="Backend & DB"/>
+</p>
+</details>
+
+<details open>
+<summary><b>🤖 AI / ML & DevOps</b></summary>
+<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,docker,kubernetes,aws,git,github&theme=dark&perline=8" alt="AI/ML & DevOps"/>
+</p>
+</details>
+
+<details>
+<summary><b>🎨 Design & Tools</b></summary>
+<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,postman,vscode,linux,notion&theme=dark&perline=8" alt="Tools"/>
+</p>
+</details>
+
+<br/>
+
+<hr style="border: none; height: 1px; background: linear-gradient(90deg, transparent, #22D3EE, #818CF8, transparent); margin: 20px auto;">
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=narendrasaraf&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="49%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narendrasaraf&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&include_all_commits=true" width="49%" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=narendrasaraf&theme=tokyonight&hide_border=true" width="65%" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=narendrasaraf&theme=tokyonight" width="100%" alt="Profile Summary"/>
+</p>
+
+<a href="https://github.com/narendrasaraf">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=narendrasaraf&bg_color=0D1117&color=22D3EE&line=818CF8&point=E5E7EB&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph"/>
+</a>
+
+<br/>
+
+<hr style="border: none; height: 1px; background: linear-gradient(90deg, transparent, #22D3EE, #818CF8, transparent); margin: 20px auto;">
+
+## 💡 Dev Wisdom
+
+<div align="center">
+
+> *"Build things that matter. Automate the rest."*
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=800&lines=Ship+%E2%86%92+Measure+%E2%86%92+Iterate+%E2%86%92+Repeat+%F0%9F%94%84;ML+%2B+Web+%2B+Finance+%3D+%F0%9F%9A%80;Data+speaks+louder+than+opinions+%F0%9F%93%8A" alt="Wisdom"/>
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)
+
+</div>
+
+<br/>
+
+<hr style="border: none; height: 1px; background: linear-gradient(90deg, transparent, #22D3EE, #818CF8, transparent); margin: 20px auto;">
+
+## 🤝 Open to Collaborate
+
+<p align="center">
+  <img src="https://img.shields.io/badge/💬_Open_to-Freelance_Projects-success?style=for-the-badge" alt="Freelance"/>
+  <img src="https://img.shields.io/badge/🤝_Available_for-Collaboration-blue?style=for-the-badge" alt="Collaboration"/>
+  <img src="https://img.shields.io/badge/🔓_Open-Source_Contributions-orange?style=for-the-badge" alt="Open Source"/>
+  <img src="https://img.shields.io/badge/⭐_Star_My-Repositories-FFD700?style=for-the-badge" alt="Star"/>
+</p>
+
+<br/>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=12,19,24,30,2&section=footer"/>
+
+  **© 2025 Narendra Saraf** · *Engineer · Programmer · Investor · VIT Pune*
+
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=3000&pause=1000&color=6B7280&center=true&vCenter=true&width=700&lines=Thanks+for+visiting!+%F0%9F%91%8B+Let%27s+build+together;narendrasaraf16%40gmail.com+%7C+www.narendrasaraf.in;Commit+%E2%86%92+Push+%E2%86%92+Deploy+%E2%86%92+Repeat+%F0%9F%94%84" alt="Footer"/>
+</div>
