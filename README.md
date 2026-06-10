@@ -96,8 +96,6 @@ const narendraSaraf = {
 
 ## 🚀 Featured Projects
 
-> *Picked from [github.com/narendrasaraf](https://github.com/narendrasaraf) — top 5 by technical depth, domain coverage, and real-world impact.*
-
 <br/>
 
 ### 🥇 [IPO Success Scoreboard](https://github.com/narendrasaraf/IPO-Success-Scoreboard)
